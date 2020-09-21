@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Welcome to my personal Github
+### If you would like to view my projects go to my repositories
+### Then go to the project wiki for information on the projects and navigation in the repositories
 
 <!--
 **StevenLandriault/StevenLandriault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
